@@ -1,5 +1,4 @@
 import React, { useContext, useReducer } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import numberReducer from './numberReducer'
 
